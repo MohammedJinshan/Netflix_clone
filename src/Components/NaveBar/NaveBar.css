@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Rubik&display=swap');
+
+.navbar-top{ 
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    display: flex; 
+    height: 55px;
+    justify-content: space-between; 
+}
+.navbar{
+    top: 0px;
+    height: 20px;
+    padding: 20px;
+    width: 100%;
+    display: flex;  
+}
+.logo{ 
+    left: 20px;
+    width: 80px;
+    margin-right: 50px;
+}
+
+.avatar{
+    
+    right: 20px;
+    width: 40px;
+    height: 40px;
+
+}
+
+/* .navebar_button{
+    position: fixed;
+    margin-left: 100px;
+} */
+
+/* .btn{
+    border: none;
+    outline: none;
+    margin-right: 10px;
+    background-color: #111;
+    color: rgb(120, 120, 120);
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+ 
+    
+} */
+
+.txt:hover{
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    transform: scale(1.5); 
+    
+    
+}
+
+.txt{
+    font-family: Rubik;
+    color: white;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.log{
+    color: white;
+    height: 30px;
+    padding-top: 10px;
+    margin-right: 0px;
+    top: 0px;
+    margin-left: 200px;
+        
+    
+}
+
+.right{
+    justify-content: space-between;
+    color: white;
+    cursor: pointer;
+    top: 0px;
+    height: 20px;
+    padding: 20px;
+    width: 100%;
+    display: flex; 
+    align-items: center; 
+}
+
+.my{
+    color: white;
+    margin-right: 5px;
+    display: flex;
+    white-space: nowrap;
+    align-items: center ;
+}
+
+.list{
+    margin-left: 5px;
+    font-family: Rubik;
+    font-weight: 800;
+}
+
+.bel{
+    
+    padding-top: 3px;
+    margin-right: 250px;
+    
+}
+
+.log:hover{
+    color: rgb(255, 255, 255);
+    transform: scale(1.5); 
+}
+
+.my:hover{
+    color: rgb(255, 255, 255);
+    transform: scale(1.5); 
+}
+
+.bel:hover{
+    color: rgb(255, 255, 255);
+    transform: scale(1.5); 
+}
+
