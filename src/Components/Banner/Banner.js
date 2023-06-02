@@ -25,7 +25,7 @@ const [movie, setMovie] = useState([])
             <BsFillPlayFill /> Play
           </button>
           <button className="button">
-            <BsFillInfoCircleFill /> More info
+            <BsFillInfoCircleFill /> More infor
           </button>
         </div>
         <h1 className="discription">
